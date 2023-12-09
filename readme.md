@@ -69,6 +69,8 @@ The dataset contains 132 rows and 8 columns:
 
 ---
 
+## Deployment Approach
+
 1. **Model Creation**
    - Save the model in a pickle format (.pkl).
 
@@ -102,7 +104,7 @@ The dataset contains 132 rows and 8 columns:
 
 ---
 
-## Project Structure
+## Code Structure
 
 1. **Input:** CallCenterData.xlsx
 2. **MLPipeline:** This folder contains all the functions organized into different Python files.
