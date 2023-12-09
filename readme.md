@@ -1,4 +1,4 @@
-# Time Series ARCH Model Deployment on AWS
+# Time Series ARCH Model and AWS Deployment
 
 ## Business Objective
 
@@ -116,17 +116,5 @@ The dataset contains 132 rows and 8 columns:
 10. **install-lightsail-cli.sh:** Steps for Lightsail installation.
 11. **lightsail-deployment.md:** Lightsail deployment readme file.
 12. **requirements.txt:** List of essential libraries with their versions.
-
----
-
-## Key Concepts Explored
-
-- Introduction to time series analysis.
-- Data preprocessing and EDA.
-- Understanding ARCH and GARCH models.
-- Building and training ARCH and GARCH models.
-- Forecasting with ARCH and GARCH models.
-- Model deployment using AWS services, including EC2, Docker, and Lightsail.
-- MLOps best practices for continuous model delivery and deployment.
 
 ---
