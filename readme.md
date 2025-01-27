@@ -224,9 +224,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or suggestions, please reach out to:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: Abhinav Navneet
+- **Email**: mailme.AbhinavN@gmail.com
+- **GitHub**: [AjNavneet](https://github.com/AjNavneet)
 
 ---
 
